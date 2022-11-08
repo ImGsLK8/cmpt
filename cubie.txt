@@ -1,0 +1,25 @@
+<!--- [CmPT Network URL] --->
+
+<!--- cubie.ml --->
+<!--- c.cubie.ml --->
+<!--- app.cubie.ml --->
+<!--- c2.cubie.ml --->
+<!--- cloud.cubie.ml --->
+<!--- purplesquare.cubie.ml --->
+
+
+<!--- [General] --->
+
+<!--- cmpt.ml --->
+<!--- cubie.mangoapp.ml --->
+<!--- mangobyte.ml (tk, ga, cf, gq) --->
+<!--- mbcl.ml --->
+<!--- gxcl.ml --->
+<!--- jscloud.ml --->
+<!--- jscl.ml --->
+<!--- crabos.ml --->
+<!--- crabs.ml --->
+<!--- crabcloud.ml --->
+<!--- troja.ml --->
+<!--- mangacloud.ml --->
+<!--- ETC --->
